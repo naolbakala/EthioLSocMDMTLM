@@ -1,2 +1,1 @@
-# EthioLSocMDMTLM
-Ethiopian Languages Transformer Language Models
+# Afaan-Oromo-Amharic-and-Tigrigna-SocMeB-TLM
